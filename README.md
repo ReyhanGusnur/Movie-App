@@ -12,3 +12,6 @@ A sleek, responsive React app that lets users browse popular movies and search f
 - Fetch API for RESTful requests
 - CSS Modules / Styled Components / Tailwind CSS (choose one)
 - Environment Variables to manage API keys securely
+
+# Live Website
+https://reyhan-movie-app.vercel.app/
